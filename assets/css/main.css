@@ -4042,10 +4042,10 @@
 				-webkit-object-fit: cover;
 				-ms-object-fit: cover;
 				object-fit: cover;
-				-moz-object-position: center;
-				-webkit-object-position: center;
-				-ms-object-position: center;
-				object-position: center;
+				-moz-object-position: 70% 50%;
+				-webkit-object-position: 70% 50%;
+				-ms-object-position: 70% 50%;
+				object-position: 70% 50%;
 				width: 100%;
 			}
 
