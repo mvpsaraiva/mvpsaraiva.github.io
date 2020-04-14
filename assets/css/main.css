@@ -4138,7 +4138,7 @@
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #f56a6a;
+				color: #222121;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -4213,3 +4213,10 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+/* Tree */
+
+#tree {
+	width: 100%;
+	height: 100%;
+}
